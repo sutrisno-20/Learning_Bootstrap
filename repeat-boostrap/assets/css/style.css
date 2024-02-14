@@ -1,9 +1,16 @@
 body {
-    min-height: 1000px;
+    min-height: 3000px;
 }
 .logo {
     letter-spacing: 5px;
 }
 .hero {
     background-color: #e2edff;
+    padding-top: 5rem;
 }
+#project {
+    background-color: #e2edff;
+}
+/* section {
+    padding-top: 5rem;
+} */
