@@ -1,12 +1,13 @@
-body {
-    min-height: 3000px;
-}
 .logo {
     letter-spacing: 5px;
 }
 .hero {
     background-color: #e2edff;
     padding-top: 5rem;
+    border-bottom: none;
+}
+#about {
+    border-top: none;
 }
 #project {
     background-color: #e2edff;
